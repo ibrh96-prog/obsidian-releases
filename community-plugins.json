@@ -31254,4 +31254,12 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open-access literature discovery and citation mapping",
     "repo": "michellegdyason/obsidian-literature-flow"
   }
+  ,
+  {
+    "id": "ai-journal-coach",
+    "name": "AI Journal Coach",
+    "author": "Ibrahim Edhem Harbutlu",
+    "description": "Analyze your journal notes with AI to surface patterns, insights, and reflections.",
+    "repo": "ibrh96-prog/obsidian-ai-journal-coach"
+  }
 ]
