@@ -32898,5 +32898,12 @@
     "author": "MatheusZarkov",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Custom gradient colors for headings, bold, italic, and links — with preset palettes or full custom color pickers.",
     "repo": "matheuszarkov/gradient-text"
-  }
+  },
+  {
+		"id": "meeting-notes-synthesizer",
+		"name": "Meeting Notes Synthesizer",
+		"author": "Ibrahim Edhem Harbutlu",
+		"description": "Cross-meeting synthesis: decision history, open action tracking, and weekly rollups from your meeting notes.",
+		"repo": "ibrh96-prog/obsidian-meeting-notes-synthesizer"
+	}
 ]
